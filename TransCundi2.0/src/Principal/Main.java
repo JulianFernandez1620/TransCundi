@@ -3,6 +3,6 @@ package Principal;
 public class Main {
 	public static void main(String args[]) {
 		System.out.println("TransCundi");
-		System.out.println("Mejorado");
+		System.out.println("Mejorado :3");
 	}
 }
