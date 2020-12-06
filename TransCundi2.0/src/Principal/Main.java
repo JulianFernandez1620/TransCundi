@@ -10,14 +10,13 @@ import Rutas.*;
 
 public class Main {
 	public static void main(String args[]) {
-		
 		Scanner in = new Scanner(System.in);
 		Troncales troncal1 = new Troncales();
 		String[] municipios = {"Bogota","Chia","Cajica","Zipaquira","Cogua","Tausa",
 								"Carmen de Carupa","Simijaca"};
 		troncal1.insertarMunicipios(municipios);
 		troncal1.mostrarLista();
-		
+		troncal1.nodoencontrado("Bogota");
 		
 		String opcion=JOptionPane.showInputDialog(" Bienvenido, somos Transcundi ® Ingrese 1 si es conductor, "
 				+ "Ingrese 2 si es un usuario, Ingrese 3 si es Empresa.");

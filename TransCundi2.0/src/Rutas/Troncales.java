@@ -1,7 +1,7 @@
 package Rutas;
 import EstructurasDatos.*;
 public class Troncales {
-	ListaDoblementeEnlazada lista;
+	public ListaDoblementeEnlazada lista;
 	public Troncales() {
 		this.lista = new ListaDoblementeEnlazada();
 	}
@@ -15,5 +15,8 @@ public class Troncales {
 		while(!lista.isEmpty()) {
 			System.out.print(lista.elimiarInicio()+" -> ");
 		}
+	}
+	public void nodoencontrado(String a) {
+		lista.buscar(a);	
 	}
 }
