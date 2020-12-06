@@ -48,13 +48,14 @@ public class ListaDoblementeEnlazada {
 		}
 		return elemento;
 	}
-	public void buscar(String a) {
+	public Nodo buscar(String a) {
 		Nodo temp = head;
 		while(temp != null) {
 			if(temp.dato == a) {
-				System.out.println("Exsite");
+				return temp;
 			}
 			temp = temp.next;
 		}
+		return null;
 	}
 }
