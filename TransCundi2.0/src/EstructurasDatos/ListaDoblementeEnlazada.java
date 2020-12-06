@@ -10,7 +10,7 @@ public class ListaDoblementeEnlazada {
 	public boolean isEmpty() {
 		return head==null;
 	}
-	public void insertarFinal(int dato) {
+	public void insertarFinal(String dato) {
 		if(isEmpty())
 			head = tail = new Nodo(dato);
 		else {
@@ -19,7 +19,7 @@ public class ListaDoblementeEnlazada {
 		}
 			
 	}
-	public void insertarInicio(int dato) {
+	public void insertarInicio(String dato) {
 		if(isEmpty())
 			head = tail = new Nodo(dato);
 		else {
@@ -28,8 +28,8 @@ public class ListaDoblementeEnlazada {
 		}
 			
 	}
-	public int elimiarInicio() {
-		int elemento = head.dato;
+	public String elimiarInicio() {
+		String elemento = head.dato;
 		if(head == tail) {
 			head = tail = null;
 		}else {
@@ -38,8 +38,8 @@ public class ListaDoblementeEnlazada {
 		}
 		return elemento;
 	}
-	public int elimiarFinal() {
-		int elemento = tail.dato; 
+	public String elimiarFinal() {
+		String elemento = tail.dato; 
 		if(head == tail) {
 			head = tail = null;
 		}else {
