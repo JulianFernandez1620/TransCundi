@@ -1,23 +1,30 @@
 package Principal;
-
 import java.util.Scanner;
-
 import javax.swing.JOptionPane;
-
 import Rutas.*;
+import Archivostxt.*;
 
 
 
 public class Main {
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
-		Troncales troncal1 = new Troncales();
-		String[] municipios = {"Bogota","Chia","Cajica","Zipaquira","Cogua","Tausa",
-								"Carmen de Carupa","Simijaca"};
-		troncal1.insertarMunicipios(municipios);
-		troncal1.mostrarLista();
-		troncal1.nodoencontrado("Bogota");
+		archivo tex = new archivo();
+		String[] municipios = tex.leerArchivo("C:\\Users\\USUARIO\\Desktop\\TransCundi\\MunicipiosCundinamarca.txt").split(",");
+		Troncales troncales = new Troncales(municipios);
+		troncales.insertarMatriz();
+		troncales.mostrarMatriz();
+		/*Ruta ruticas[] = new Ruta[100];
+		for(int i = 0; i<100; i++) {
+			ruticas[i] = new Ruta(troncales.TroncalesM);
+		}
+		for(int i = 0; i<100; i++) {
+			ruticas[i].insertarM();
+			ruticas[i].mostrarRutas();
+			System.out.println();
+		}*/
 		
+		/*
 		String opcion=JOptionPane.showInputDialog(" Bienvenido, somos Transcundi ® Ingrese 1 si es conductor, "
 				+ "Ingrese 2 si es un usuario, Ingrese 3 si es Empresa.");
 		
@@ -77,6 +84,6 @@ public class Main {
 		else
 			System.out.println("Opción incorrecta");
 		in.close();
-		
+		*/
 	}
 }
