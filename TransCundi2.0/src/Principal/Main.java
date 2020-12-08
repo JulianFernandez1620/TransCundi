@@ -10,9 +10,7 @@ public class Main {
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
 		archivo tex = new archivo();
-		archivo prueba= new archivo("pruebaxdxd.txt");
-		prueba.EscribirTexto("Hola mundo"+"/n Hola");
-		String[] municipios = tex.leerArchivo("C:\\Users\\Sebastian\\git\\TransCundi\\MunicipiosCundinamarca.txt").split(",");
+		String[] municipios = tex.leerArchivo("C:\\Users\\USUARIO\\Desktop\\TransCundi\\MunicipiosCundinamarca.txt").split(",");
 		Troncales troncales = new Troncales(municipios);
 		troncales.insertarMatriz();
 		//troncales.mostrarMatriz();
@@ -74,6 +72,7 @@ public class Main {
 		
 		//EMPRESA: CREAR RUTAS 
 		else if(opcion.equals("3")) {
+			/*
 			String decision =JOptionPane.showInputDialog("1. Generar rutas aleatorias \n 2.Crear Ruta");
 			if(decision.equals("1")) {
 				int cantidad =Integer.parseInt(JOptionPane.showInputDialog("Cuantos queres flaco... : "));
@@ -86,8 +85,8 @@ public class Main {
 					ruticas[i].insertarM();
 					rutas = rutas + "\n" + ruticas[i].mostrarRutas();
 				}
-				
-				JOptionPane.showMessageDialog(null,rutas);	
+				rutasA.EscribirTexto(rutas);
+				JOptionPane.showMessageDialog(null,"Pana ya fueron agregadas a la base de datos");	
 				
 			}else if(decision.equals("2")) {
 				String inicio =JOptionPane.showInputDialog("Punto de inicio: ");
@@ -100,13 +99,16 @@ public class Main {
 				for(int i = 0; i < rutaCreada.length; i++) {
 					rutaF = rutaF + "\n" +rutaCreada[i];
 				}
+				rutasE.EscribirTexto(rutaF);
 				JOptionPane.showMessageDialog(null,"Posibles Rutas\n"+rutaF,
 						"TransCundi",1);
 				/*for(int i = 0; i < rutaCreada.length; i++) {
 					System.out.println(rutaCreada[i]);
 				}*/
+			
+			
 				
-			}
+			
 		}
 			
 		in.close();

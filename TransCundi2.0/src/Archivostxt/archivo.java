@@ -47,7 +47,7 @@ public class archivo {
 				escribir.close();
 			}
 			catch(IOException ex) {
-				Logger.getLogger(Pruebaxdxd.class.getName()).log(Level.SEVERE, null, ex);
+				Logger.getLogger(archivo.class.getName()).log(Level.SEVERE, null, ex);
 			}
 
 		}
@@ -64,7 +64,7 @@ public class archivo {
 				escribir.close();
 			}
 			catch(IOException ex) {
-				Logger.getLogger(Pruebaxdxd.class.getName()).log(Level.SEVERE, null, ex);
+				Logger.getLogger(archivo.class.getName()).log(Level.SEVERE, null, ex);
 
 
 			}
