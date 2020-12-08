@@ -13,18 +13,8 @@ public class Main {
 		String[] municipios = tex.leerArchivo("C:\\Users\\USUARIO\\Desktop\\TransCundi\\MunicipiosCundinamarca.txt").split(",");
 		Troncales troncales = new Troncales(municipios);
 		troncales.insertarMatriz();
-		troncales.mostrarMatriz();
-		/*Ruta ruticas[] = new Ruta[100];
-		for(int i = 0; i<100; i++) {
-			ruticas[i] = new Ruta(troncales.TroncalesM);
-		}
-		for(int i = 0; i<100; i++) {
-			ruticas[i].insertarM();
-			ruticas[i].mostrarRutas();
-			System.out.println();
-		}*/
+		//troncales.mostrarMatriz();
 		
-		/*
 		String opcion=JOptionPane.showInputDialog(" Bienvenido, somos Transcundi ® Ingrese 1 si es conductor, "
 				+ "Ingrese 2 si es un usuario, Ingrese 3 si es Empresa.");
 		
@@ -81,9 +71,38 @@ public class Main {
 		
 		
 		//EMPRESA: CREAR RUTAS 
-		else
-			System.out.println("Opción incorrecta");
+		else if(opcion.equals("3")) {
+			String decision =JOptionPane.showInputDialog("1. Generar rutas aleatorias \n 2.Crear Ruta");
+			if(decision.equals("1")) {
+				int cantidad =Integer.parseInt(JOptionPane.showInputDialog("Cuantos queres flaco... : "));
+				Ruta ruticas[] = new Ruta[cantidad];
+				for(int i = 0; i<cantidad; i++) {
+					ruticas[i] = new Ruta(troncales.getmatriz());
+				}
+				String rutas = "";
+				for(int i = 0; i<cantidad; i++) {
+					ruticas[i].insertarM();
+					rutas = rutas + "\n" + ruticas[i].mostrarRutas();
+				}
+				
+				JOptionPane.showMessageDialog(null,rutas);	
+				
+			}else if(decision.equals("2")) {
+				String inicio =JOptionPane.showInputDialog("Punto de inicio: ");
+				String llegada =JOptionPane.showInputDialog("Punto de llegada: ");
+				Ruta rutica = new Ruta(troncales.getmatriz());
+				String[] rutaCreada = new String[5];
+				rutica.insertarEspecificamente(inicio, llegada);
+				rutaCreada = rutica.mostrarRutasEspecificas();
+				//JOptionPane.showMessageDialog(null,"Posibles Rutas\n"+rutaCreada);
+				for(int i = 0; i < rutaCreada.length; i++) {
+					System.out.println(rutaCreada[i]);
+				}
+				
+			}
+		}
+			
 		in.close();
-		*/
+		
 	}
 }

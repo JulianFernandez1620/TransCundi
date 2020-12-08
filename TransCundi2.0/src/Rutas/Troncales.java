@@ -5,7 +5,7 @@ public class Troncales {
 	public static String [][] TroncalesM;
 	String[] municipios;
 	public Troncales(String[] municipios) {
-		TroncalesM = new String[16][10];
+		TroncalesM = new String[16][25];
 		this.municipios = municipios;
 	}
 	/*
@@ -23,8 +23,8 @@ public class Troncales {
 		lista.buscar(a);	
 	}*/
 	public void insertarMatriz() {
-	for(int i=0;i<16;i++){
-		for(int j=0;j<10;j++) {
+	for(int i=0;i<TroncalesM.length;i++){
+		for(int j=0;j<TroncalesM[i].length;j++) {
 			if(k<municipios.length){
 				if(!municipios[k].equals("_")){
 					TroncalesM[i][j]=municipios[k];
@@ -38,12 +38,15 @@ public class Troncales {
 		k++;
 	}
 	}
+	public String[][] getmatriz(){
+		return TroncalesM;
+	}
 	public int max() {
 		return TroncalesM.length;
 	}
 	public void mostrarMatriz() {
-	for(int q=0; q<16; q++){
-		for (int p=0; p<10;p++){
+	for(int q=0; q<TroncalesM.length; q++){
+		for (int p=0; p<TroncalesM[q].length;p++){
 			//if(TroncalesM[q][p]!=null)
 				System.out.print(TroncalesM[q][p]+" ");
 		}

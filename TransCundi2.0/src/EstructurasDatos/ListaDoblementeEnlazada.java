@@ -1,8 +1,8 @@
 package EstructurasDatos;
 
 public class ListaDoblementeEnlazada {
-	private Nodo head;
-	private Nodo tail;
+	public Nodo head;
+	public Nodo tail;
 	public ListaDoblementeEnlazada() {
 		this.head = null;
 		this.tail = null;
