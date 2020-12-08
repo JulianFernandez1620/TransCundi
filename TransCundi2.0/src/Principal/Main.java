@@ -10,7 +10,9 @@ public class Main {
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
 		archivo tex = new archivo();
-		String[] municipios = tex.leerArchivo("C:\\Users\\USUARIO\\Desktop\\TransCundi\\MunicipiosCundinamarca.txt").split(",");
+		archivo prueba= new archivo("pruebaxdxd.txt");
+		prueba.EscribirTexto("Hola mundo"+"/n Hola");
+		String[] municipios = tex.leerArchivo("C:\\Users\\Sebastian\\git\\TransCundi\\MunicipiosCundinamarca.txt").split(",");
 		Troncales troncales = new Troncales(municipios);
 		troncales.insertarMatriz();
 		//troncales.mostrarMatriz();
