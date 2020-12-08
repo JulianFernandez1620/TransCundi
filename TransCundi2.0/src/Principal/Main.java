@@ -94,10 +94,15 @@ public class Main {
 				String[] rutaCreada = new String[5];
 				rutica.insertarEspecificamente(inicio, llegada);
 				rutaCreada = rutica.mostrarRutasEspecificas();
-				//JOptionPane.showMessageDialog(null,"Posibles Rutas\n"+rutaCreada);
+				String rutaF = "";
 				for(int i = 0; i < rutaCreada.length; i++) {
-					System.out.println(rutaCreada[i]);
+					rutaF = rutaF + "\n" +rutaCreada[i];
 				}
+				JOptionPane.showMessageDialog(null,"Posibles Rutas\n"+rutaF,
+						"TransCundi",1);
+				/*for(int i = 0; i < rutaCreada.length; i++) {
+					System.out.println(rutaCreada[i]);
+				}*/
 				
 			}
 		}

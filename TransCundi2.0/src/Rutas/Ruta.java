@@ -36,10 +36,6 @@ public class Ruta {
 		//}
 	}
 	public void insertarEspecificamente(String inicio, String llegada) {
-		ListaDoblementeEnlazada temp[] = new ListaDoblementeEnlazada[2];
-		for(int i = 0; i < 2; i++) {
-			temp[i] = new ListaDoblementeEnlazada();
-		}
 		int pos = 0;
 		for(int i = 0; i<troncal.length; i++) {
 			for(int j = 0; j<troncal[i].length;j++) {
@@ -49,8 +45,9 @@ public class Ruta {
 							for(int a = j; a<troncal[i].length;a++) {
 								if(troncal[i][a]!= null) {
 									if(troncal[i][a].equals(llegada)) {
+										temp[pos] = new ListaDoblementeEnlazada();
 										for(int b = j; b<=a;b++) {
-											//temp[pos] = new ListaDoblementeEnlazada();
+											
 											temp[pos].insertarInicio(troncal[i][b]);
 											//System.out.print("->"+temp[pos].tail.dato);
 										}
@@ -69,12 +66,19 @@ public class Ruta {
 	public String[] mostrarRutasEspecificas() {
 		//for(int i = 0; i<= 100; i++) {
 		String[] h = new String[temp.length];
+		for(int i=0; i<temp.length;i++) {
+			h[i] = "";
+		}
 		for(int i = 0; i < temp.length; i++) {
 			if(temp[i]!=null) {
-				h[i] = "->"+temp[i].head.dato;
-				temp[i].head = temp[i].head.next;
+				while(!temp[i].isEmpty()) {
+						h[i] = h[i]+"->"+temp[i].elimiarFinal();
+						//System.out.println(h[i]);
+				}
 			}
+			
 		}
+		
 			return h;
 	}
 
