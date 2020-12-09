@@ -15,10 +15,11 @@ public class Conductor{
 		 IdSiguiente++;	
 	}
 	
-	public boolean ConfContra(int usua, String Contra) {	
+	public boolean ConfContra(String usua, String Contra) {	
 		boolean Confirm=false;
-		
-		if (ClaveUsua.equals(Contra)&&Id==usua) {
+		System.out.println(Id);
+		int usua1= Integer.parseInt(usua);
+		if (ClaveUsua.equals(Contra)||Id==(usua1+1)) {
 			Confirm=true;
 			//System.out.println("Bienvenido "+NombreConductor);
 		}

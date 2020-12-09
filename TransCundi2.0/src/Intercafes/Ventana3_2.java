@@ -43,7 +43,8 @@ public class Ventana3_2 extends JFrame {
 			for (int x=0;x<Lconductores.length;x++) {
 				if(x%2==0) {
 					qu=x/2;
-						misConductores[qu]= new Conductor(Lconductores[x],Lconductores[x+1]);
+					misConductores[qu]= new Conductor(Lconductores[x],Lconductores[x+1]);
+					
 				}
 			}
 		}
@@ -90,12 +91,14 @@ public class Ventana3_2 extends JFrame {
 		btnIngreso.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				String usuario=txtNombre.getText();
-				int ID= Integer.parseInt(usuario);
+			//	int ID= Integer.parseInt(usuario);
 				String contrase=pss_contrasena.getText();
 				int i=0;
-				while(!misConductores[i].ConfContra(ID, contrase)&&i<1000) {
+				while(!misConductores[i].ConfContra(usuario, contrase)&&i<misConductores.length) {	
+					System.out.println(misConductores[i].ConfContra(usuario, contrase));
+					System.out.println(contrase+","+usuario+",");
 					i++;
-				}
+					}
 				if(i>=1000)
 					JOptionPane.showMessageDialog(null, "Contraseña o Usuarios incorrectos");
 				else {
