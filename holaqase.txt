@@ -1,6 +1,0 @@
-Bogota,Chia,Cajica,Zipaquira,Cogua,Tausa,Carmen de Carupa,Simijaca
-Bogota,Chia,Cajica,Zipaquira,Cogua,Tausa,Carmen de Carupa,Simijaca 
-Bogota,Chia,Cajica,Zipaquira,Cogua,Tausa,Carmen de Carupa,Simijaca 
-Bogota,Chia,Cajica,Zipaquira,Cogua,Tausa,Carmen de Carupa,Simijaca 
-Bogota,Chia,Cajica,Zipaquira,Cogua,Tausa,Carmen de Carupa,Simijaca 
-Bogota,Chia,Cajica,Zipaquira,Cogua,Tausa,Carmen de Carupa,Simijaca  
