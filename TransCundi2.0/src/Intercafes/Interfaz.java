@@ -46,12 +46,12 @@ public class Interfaz extends JFrame {
 		contentPane.setLayout(null);
 		
 		JLabel lblTituloPrincipal = new JLabel("Aqui va el titulo ome");
-		lblTituloPrincipal.setIcon(new ImageIcon("C:\\Users\\USUARIO\\Desktop\\TransCundi\\Titulo.png"));
+		lblTituloPrincipal.setIcon(new ImageIcon("Titulo.png"));
 		lblTituloPrincipal.setBounds(118, 30, 401, 74);
 		contentPane.add(lblTituloPrincipal);
 		
 		JLabel lblLogo = new JLabel("Aqui va el logo");
-		lblLogo.setIcon(new ImageIcon("C:\\Users\\USUARIO\\Desktop\\TransCundi\\TRANSCUNDI_opt.png"));
+		lblLogo.setIcon(new ImageIcon("TRANSCUNDI_opt.png"));
 		lblLogo.setBounds(181, 95, 262, 299);
 		contentPane.add(lblLogo);
 		
@@ -79,7 +79,7 @@ public class Interfaz extends JFrame {
 		contentPane.add(btnSalida);
 		
 		JLabel lbLFondo = new JLabel("New label");
-		lbLFondo.setIcon(new ImageIcon("C:\\Users\\USUARIO\\Desktop\\TransCundi\\Fondo.jpg"));
+		lbLFondo.setIcon(new ImageIcon("Fondo.jpg"));
 		lbLFondo.setBounds(0, 0, 633, 489);
 		contentPane.add(lbLFondo);
 		
