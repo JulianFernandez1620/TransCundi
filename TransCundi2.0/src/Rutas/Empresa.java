@@ -5,10 +5,12 @@ public class Empresa {
 	String[][] troncal;
 	archivo rutasA;
 	archivo rutasE;
+	String rutaF;
 	public Empresa(String[][] troncal) {
 		this.troncal = troncal;
 		this.rutasA= new archivo("RutasAleatorias.txt");
 		this.rutasE= new archivo("RutasEspecificas.txt");
+		this.rutaF = "";
 	}
 	public void crearRutasAleatorias(int cantidad) {
 		Ruta ruticas[] = new Ruta[cantidad];
@@ -23,15 +25,20 @@ public class Empresa {
 		rutasA.EscribirTexto(rutas);
 	}
 	
-	public void crearRuta(String inicio, String llegada) {
+	public String crearRuta(String inicio, String llegada) {
 		Ruta rutica = new Ruta(troncal);
 		String[] rutaCreada = new String[5];
 		rutica.insertarEspecificamente(inicio, llegada);
 		rutaCreada = rutica.mostrarRutasEspecificas();
-		String rutaF = "";
+		String rut = "";
 		for(int i = 0; i < rutaCreada.length; i++) {
-			rutaF = rutaF + "\n" +rutaCreada[i];
+			rut = rut + "\n" +rutaCreada[i];
 		}
-		rutasE.EscribirTexto(rutaF);
+		rutasE.EscribirTexto(rut);
+		return rut;
+	}
+	
+	public String getRuta() {
+		return rutaF;
 	}
 }

@@ -9,37 +9,38 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
+
+import Archivostxt.archivo;
+
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import Rutas.*;
 
 public class Ventana4_2 extends JFrame {
 
 	private JPanel contentPane;
 	private JTextField txtPuntoDeInicio;
+	private JTextField txtPuntoDeLlegada;
+	//Ventana4 ventana = new Ventana4();
 
 	/**
 	 * Launch the application.
 	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					Ventana4_2 frame = new Ventana4_2();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
-
 	/**
 	 * Create the frame.
 	 */
 	public Ventana4_2() {
+		archivo tex =new archivo();
+		String[] municipios = tex.leerArchivo("MunicipiosCundinamarca.txt").split(",");
+		Troncales troncales = new Troncales(municipios);
+		troncales.insertarMatriz();
+		Empresa empresa = new Empresa(troncales.getmatriz());
+		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 649, 528);
 		contentPane = new JPanel();
@@ -50,6 +51,8 @@ public class Ventana4_2 extends JFrame {
 		JButton btnNewButton = new JButton("Crear");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
+				String ruta = empresa.crearRuta(txtPuntoDeInicio.getText(), txtPuntoDeLlegada.getText()); 
+				JOptionPane.showMessageDialog(null, "Ruta Creada\nPosibles Rutas:\n"+ruta);
 			}
 		});
 		btnNewButton.setFont(new Font("Trebuchet MS", Font.PLAIN, 11));
@@ -76,14 +79,13 @@ public class Ventana4_2 extends JFrame {
 		lblNewLabel.setBounds(133, 67, 367, 83);
 		contentPane.add(lblNewLabel);
 		
-		
-		txtPuntoDeInicio = new JTextField();
-		txtPuntoDeInicio.setForeground(Color.GRAY);
-		txtPuntoDeInicio.setFont(new Font("Trebuchet MS", Font.ITALIC, 15));
-		txtPuntoDeInicio.setText("");
-		txtPuntoDeInicio.setBounds(268, 288, 126, 45);
-		contentPane.add(txtPuntoDeInicio);
-		txtPuntoDeInicio.setColumns(10);
+		txtPuntoDeLlegada = new JTextField();
+		txtPuntoDeLlegada.setForeground(Color.GRAY);
+		txtPuntoDeLlegada.setFont(new Font("Trebuchet MS", Font.ITALIC, 15));
+		txtPuntoDeLlegada.setText("");
+		txtPuntoDeLlegada.setBounds(268, 288, 126, 45);
+		contentPane.add(txtPuntoDeLlegada);
+		txtPuntoDeLlegada.setColumns(10);
 		
 		txtPuntoDeInicio = new JTextField();
 		txtPuntoDeInicio.setForeground(Color.GRAY);
@@ -92,11 +94,22 @@ public class Ventana4_2 extends JFrame {
 		txtPuntoDeInicio.setBounds(268, 213, 126, 45);
 		contentPane.add(txtPuntoDeInicio);
 		txtPuntoDeInicio.setColumns(10);
+		
+		JButton btnNewButton_3 = new JButton("<-");
+		btnNewButton_3.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				dispose();
+			}
+		});
+		btnNewButton_3.setFont(new Font("Trebuchet MS", Font.BOLD, 15));
+		btnNewButton_3.setVerticalAlignment(SwingConstants.BOTTOM);
+		btnNewButton_3.setBounds(23, 33, 52, 27);
+		contentPane.add(btnNewButton_3);
 	
 		
 		JLabel lblFondo = new JLabel("New label");
 		lblFondo.setBackground(Color.RED);
-		lblFondo.setIcon(new ImageIcon("C:\\Users\\Sebastian\\git\\TransCundi\\TransCundi2.0\\Ventana4.0.jpeg"));
+		lblFondo.setIcon(new ImageIcon("Ventana4.0.jpeg"));
 		lblFondo.setBounds(0, 11, 633, 478);
 		contentPane.add(lblFondo);
 	}

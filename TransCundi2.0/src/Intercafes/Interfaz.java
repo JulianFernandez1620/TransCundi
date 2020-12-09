@@ -17,26 +17,7 @@ import java.awt.event.ActionEvent;
 public class Interfaz extends JFrame {
 
 	private JPanel contentPane;
-
-	/**
-	 * Launch the application.
-	 */
-	/*
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					Interfaz frame = new Interfaz();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}*/
-	/**
-	 * Create the frame.
-	 */
+	VentanaInicial ventana = new VentanaInicial();
 	public Interfaz() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 649, 528);
@@ -58,8 +39,9 @@ public class Interfaz extends JFrame {
 		JButton btnIngreso = new JButton("Ingresar");
 		btnIngreso.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				//JOptionPane.showMessageDialog(null,"Ingrese:\n1.Ususario\n2.Conductor\n3.Empresa");
-				
+				ventana.setLocationRelativeTo(null);
+				ventana.setVisible(true);
+				//dispose();
 			}
 		});
 		btnIngreso.setForeground(Color.DARK_GRAY);

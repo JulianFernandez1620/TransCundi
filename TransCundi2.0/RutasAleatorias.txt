@@ -1,0 +1,1012 @@
+
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+
+->Tausa->Satatausa->Ubate->Fuquene
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Gacheta->Sueva->Palmar->Andadero
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Sueva->Palmar->El Chital->Andadero->Guasca
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->La Ruidosa->Tausa->Satatusa->Ubate
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Gachancipa->Tocancipa->Sopo->La Calera
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Ubate->Tausa->Zipaquira
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Cogua->Zipaquira->Cajica->Chia
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Gacheta->Sueva->Palmar->Andadero
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Cogua->Zipaquira->Cajica->Chia
+->Cogua->Zipaquira->Cajica->Chia
+->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->El Rosal->El Vino->La Vega->Tobia Chica
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera
+->Cogua->Zipaquira->Cajica->Chia
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->La Plazual->Tausa->Satatausa->Ubate
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Guatativa->Sesquile->Choconta->Villapinzon
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Gachancipa->Tocancipa->Sopo
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Sasaima->La Frontera->Alban->Facatativa
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena
+->Cogua->Zipaquira->Cajica->Chia
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Villeta->Sasaima->La Frontera->Alban->Facatativa
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->La Calera->Guasca->Guatativa->Sesquile->Choconta
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos
+->La Calera->Guasca->Guatativa->Sesquile->Choconta
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi
+->Tausa->Satatausa->Ubate->Fuquene
+->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Sueva->Palmar->El Chital->Andadero->Guasca
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->La Frontera->Alban->Facatativa->Madrid->Mosquera
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Ubate->Tausa->Cogua->Zipaquira->Cajica
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta
+->Palmar->El Chital->Andadero->Guasca
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guatativa->Sesquile->Choconta->Villapinzon
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Gacheta->Sueva->Palmar->El Chital->Andadero
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->San Juan->Gacheta->Sueva->Palmar->Andadero
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->La Frontera->Alban->Facatativa
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Gacheta->Sueva->Palmar
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Cogua->Zipaquira->Cajica->Chia
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Cogua->Zipaquira->Cajica->Chia
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Cogua->Zipaquira->Cajica->Chia
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Gacheta->Sueva->Palmar->El Chital->Andadero
+->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Zipaquira->Cogua->Tausa->Carmen de Carupa
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Chipaque->Abasticos->Caqueza
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->La Frontera->Alban->Facatativa->Madrid
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Ubate->Tausa->Zipaquira
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Zipaquira->La Ruidosa->Tausa->Satatusa
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Tataca->Buenavista->El Rosal->El Vino->La Vega
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Villeta->Sasaima->La Frontera->Alban->Facatativa
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->El Rosal->El Vino->La Vega
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Cota->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Cajica->Zipaquira->Cogua->Tausa
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->El Rosal->El Vino->La Vega
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos
+->El Rosal->El Vino->La Vega->Tobia Chica
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Tausa->Satatausa->Ubate->Fuquene->Susa
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Caqueza->Abasticos->Chipaque
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel
+->Cogua->Zipaquira->Cajica->Chia
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Bogota->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana
+->La Villa->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Tibirita->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Buenavista->El Rosal->El Vino->La Vega
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos
+->Guacheta->Ubate->Tausa->Cogua->Zipaquira->Cajica
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Palmar->El Chital->Andadero->Guasca
+->Cogua->Zipaquira->Cajica->Chia
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Gachancipa->Tocancipa->Sopo->La Calera
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Cogua->Zipaquira->Cajica->Chia
+->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Macheta->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Villeta->Sasaima->La Frontera->Alban->Facatativa
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chia->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Guaduas->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Sesquile->Gachancipa->Tocancipa->Sopo->La Calera
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Villeta->Sasaima->La Frontera->Alban->Facatativa
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Sopo
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba
+->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Cogua->Zipaquira->Cajica->Chia
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Sopo->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Bogota->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Palmar->El Chital->Andadero->Guasca->Santa Isabel
+->Simijaca->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo
+->Zipaquira->La Ruidosa->Tausa->Satatusa
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Guatativa->Sesquile->Choconta->Villapinzon
+->Villeta->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata->Pacho->El Encenillo->Zipaquira
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Zipaquira->El Encenillo->Pacho->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Bogota->Choachi->Ubaque->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene->Susa->Simijaca
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Chia->Tataca->Buenavista->El Rosal->El Vino->La Vega->Tobia Chica->Villeta->Quebradanegra->Utica->La Pena->Nimaima->Vergara->La Magola->Supata
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Zipaquira->Cogua->Tausa
+->Cogua->Zipaquira->Cajica->Chia
+->Gachala->Ubala->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Sasaima->La Frontera->Alban->Facatativa->Madrid->Mosquera
+->Tocancipa->Gachancipa->Sesquile->Choconta->Villapinzon
+->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->Palmar->El Chital->Andadero->Guasca->Sopo->Aposentos->Tocancipa->Gachancipa->Choconta->Villapinzon
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->La Frontera->Alban->Facatativa->Madrid->Mosquera->Funza
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa
+->Caqueza->Abasticos->Chipaque->Ubaque->Choachi
+->Susa->Guatancuy->Ubate->Tausa->Zipaquira->Cajica->Chia->Bogota
+->La Calera->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Tausa->Satatausa->Ubate->Fuquene
+->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque
+->Bogota->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Chipaque->Abasticos->Caqueza->Quetame->Monterredondo->Guayabetal
+->La Plazual->Tausa->Satatausa->Ubate->Fuquene
+->Chia->Cajica->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos
+->Cogua->Zipaquira->Cajica->Chia
+->San Juan->Gacheta->Sueva->Palmar->Andadero->La Calera->Santa Ana
+->Gacheta->Sueva->Palmar->El Chital->Andadero->Guasca->Santa Isabel->La Calera->Los Cerritos->Santa Ana->Bogota
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon
+->Talauta->La Palma->Caparrapi->Puerto Vargas->Cachipay
+->Ubate->Tausa->Cogua->Zipaquira->Cajica->Chia
+->Chia->Cajica->Zipaquira->Cogua->Tausa->Carmen de Carupa->Simijaca
+->Guayabetal->Monterredondo->Quetame->Caqueza->Abasticos->Chipaque->Ubaque->Choachi->Bogota
+->Guasca->Guatativa->Sesquile->Choconta->Villapinzon
+->Ubate->Tausa->Cogua->Zipaquira->Cajica
+->Gachancipa->Tocancipa->Sopo->La Calera
+->Zipaquira->La Ruidosa->Tausa->Satatusa->Ubate->Cucunuba->Los Cerezos->Choconta->Villapinzon

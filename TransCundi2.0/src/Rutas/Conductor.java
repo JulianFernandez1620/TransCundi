@@ -20,7 +20,7 @@ public class Conductor{
 		
 		if (ClaveUsua.equals(Contra)&&Id==usua) {
 			Confirm=true;
-			System.out.println("Bienvenido "+NombreConductor);
+			//System.out.println("Bienvenido "+NombreConductor);
 		}
 		else
 			Confirm=false;

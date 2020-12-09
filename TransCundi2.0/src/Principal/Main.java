@@ -13,15 +13,8 @@ public class Main {
 		Interfaz window = new Interfaz();
 		window.setVisible(true);
 		window.setLocationRelativeTo(null);
-		Scanner in = new Scanner(System.in);
-		archivo tex =new archivo();
-		archivo tex1 =new archivo();
-		archivo ListaConductores= new archivo("ListaConductores.txt");
-		String[] municipios = tex.leerArchivo("MunicipiosCundinamarca.txt").split(",");
-		String [] Lconductores;
-		Lconductores=tex1.leerArchivo("ListaConductores.txt").split(",");
-		Troncales troncales = new Troncales(municipios);
-		troncales.insertarMatriz();
+		
+		
 		//troncales.mostrarMatriz();
 		
 		/*
